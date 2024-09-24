@@ -1,0 +1,157 @@
+[I 2024-09-23 16:20:20.083 ServerApp] Package notebook took 0.0000s to import
+[I 2024-09-23 16:20:20.398 ServerApp] Package aext_assistant took 0.3152s to import
+[I 2024-09-23 16:20:20.402 ServerApp] Package aext_core took 0.0037s to import
+[I 2024-09-23 16:20:20.427 ServerApp] ****************** ENVIRONMENT Environment.PRODUCTION ******************
+[I 2024-09-23 16:20:20.432 ServerApp] ****************** ENVIRONMENT Environment.PRODUCTION ******************
+[I 2024-09-23 16:20:20.435 ServerApp] Package aext_panels took 0.0323s to import
+[I 2024-09-23 16:20:20.439 ServerApp] Package aext_share_notebook took 0.0031s to import
+[I 2024-09-23 16:20:20.479 ServerApp] Package jupyter_lsp took 0.0401s to import
+[W 2024-09-23 16:20:20.479 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-09-23 16:20:20.489 ServerApp] Package jupyter_server_terminals took 0.0100s to import
+[I 2024-09-23 16:20:20.490 ServerApp] Package jupyterlab took 0.0000s to import
+[I 2024-09-23 16:20:20.651 ServerApp] Package notebook_shim took 0.0000s to import
+[W 2024-09-23 16:20:20.651 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-09-23 16:20:22.186 ServerApp] Package panel.io.jupyter_server_extension took 1.5339s to import
+[I 2024-09-23 16:20:22.187 ServerApp] aext_assistant | extension was successfully linked.
+[I 2024-09-23 16:20:22.187 ServerApp] aext_core | extension was successfully linked.
+[I 2024-09-23 16:20:22.187 ServerApp] aext_panels | extension was successfully linked.
+[I 2024-09-23 16:20:22.187 ServerApp] aext_share_notebook | extension was successfully linked.
+[I 2024-09-23 16:20:22.187 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-09-23 16:20:22.191 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-09-23 16:20:22.198 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-09-23 16:20:22.202 ServerApp] notebook | extension was successfully linked.
+[I 2024-09-23 16:20:22.679 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-09-23 16:20:22.679 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2024-09-23 16:20:22.737 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-09-23 16:20:22.738 ServerApp] Registered aext_assistant server extension
+[I 2024-09-23 16:20:22.738 ServerApp] aext_assistant | extension was successfully loaded.
+[I 2024-09-23 16:20:22.738 ServerApp] Registered aext_core server extension
+[I 2024-09-23 16:20:22.738 ServerApp] aext_core | extension was successfully loaded.
+[I 2024-09-23 16:20:22.739 ServerApp] Registered aext_panels server extension
+[I 2024-09-23 16:20:22.740 ServerApp] aext_panels | extension was successfully loaded.
+[I 2024-09-23 16:20:22.740 ServerApp] Registered aext_share_notebook_server server extension
+[I 2024-09-23 16:20:22.740 ServerApp] aext_share_notebook | extension was successfully loaded.
+[I 2024-09-23 16:20:22.743 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-09-23 16:20:22.744 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-09-23 16:20:22.753 LabApp] JupyterLab extension loaded from /opt/anaconda3/lib/python3.11/site-packages/jupyterlab
+[I 2024-09-23 16:20:22.753 LabApp] JupyterLab application directory is /opt/anaconda3/share/jupyter/lab
+[I 2024-09-23 16:20:22.754 LabApp] Extension Manager is 'pypi'.
+[I 2024-09-23 16:20:22.757 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-09-23 16:20:22.762 ServerApp] notebook | extension was successfully loaded.
+[I 2024-09-23 16:20:22.762 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2024-09-23 16:20:22.765 ServerApp] The port 8888 is already in use, trying another port.
+[I 2024-09-23 16:20:22.766 ServerApp] The port 8889 is already in use, trying another port.
+[I 2024-09-23 16:20:22.766 ServerApp] The port 8890 is already in use, trying another port.
+[I 2024-09-23 16:20:22.767 ServerApp] The port 8891 is already in use, trying another port.
+[I 2024-09-23 16:20:22.768 ServerApp] Serving notebooks from local directory: /Users/baruchgottesman/AIClass/ai-project-2
+[I 2024-09-23 16:20:22.768 ServerApp] Jupyter Server 2.10.0 is running at:
+[I 2024-09-23 16:20:22.768 ServerApp] http://localhost:8892/tree?token=415d9d02e54b00627d2c3579f38d8260da653902558559f3
+[I 2024-09-23 16:20:22.768 ServerApp]     http://127.0.0.1:8892/tree?token=415d9d02e54b00627d2c3579f38d8260da653902558559f3
+[I 2024-09-23 16:20:22.768 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-09-23 16:20:22.773 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///Users/baruchgottesman/Library/Jupyter/runtime/jpserver-88121-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8892/tree?token=415d9d02e54b00627d2c3579f38d8260da653902558559f3
+        http://127.0.0.1:8892/tree?token=415d9d02e54b00627d2c3579f38d8260da653902558559f3
+[I 2024-09-23 16:20:22.867 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-09-23 16:20:48.078 ServerApp] Kernel started: b935e6e3-cc27-49a9-88a4-9ade7e709696
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-09-23 16:20:51.748 ServerApp] Connecting to kernel b935e6e3-cc27-49a9-88a4-9ade7e709696.
+[I 2024-09-23 16:22:47.527 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 16:34:47.557 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 16:40:47.651 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 16:42:47.690 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 16:44:47.722 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 16:46:48.137 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 16:48:49.098 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 16:50:50.040 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 16:54:51.057 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 16:56:51.085 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 16:58:51.106 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 17:00:51.127 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 17:02:51.153 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 17:04:51.180 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 17:06:51.210 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 17:08:51.236 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 17:10:51.301 ServerApp] Saving file at /Collecting_Data_on_Commute_by_Metro_Area.ipynb
+[I 2024-09-23 17:43:27.859 ServerApp] Starting buffering for b935e6e3-cc27-49a9-88a4-9ade7e709696:f9b0b503-6f11-4cd5-badf-dc5969974bc0
+[I 2024-09-23 21:29:58.043 ServerApp] Package notebook took 0.0000s to import
+[I 2024-09-23 21:29:58.402 ServerApp] Package aext_assistant took 0.3581s to import
+[I 2024-09-23 21:29:58.410 ServerApp] Package aext_core took 0.0072s to import
+[I 2024-09-23 21:29:58.441 ServerApp] ****************** ENVIRONMENT Environment.PRODUCTION ******************
+[I 2024-09-23 21:29:58.443 ServerApp] ****************** ENVIRONMENT Environment.PRODUCTION ******************
+[I 2024-09-23 21:29:58.447 ServerApp] Package aext_panels took 0.0372s to import
+[I 2024-09-23 21:29:58.454 ServerApp] Package aext_share_notebook took 0.0067s to import
+[I 2024-09-23 21:29:58.503 ServerApp] Package jupyter_lsp took 0.0481s to import
+[W 2024-09-23 21:29:58.503 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-09-23 21:29:58.520 ServerApp] Package jupyter_server_terminals took 0.0159s to import
+[I 2024-09-23 21:29:58.520 ServerApp] Package jupyterlab took 0.0000s to import
+[I 2024-09-23 21:29:58.753 ServerApp] Package notebook_shim took 0.0000s to import
+[W 2024-09-23 21:29:58.753 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-09-23 21:30:00.620 ServerApp] Package panel.io.jupyter_server_extension took 1.8655s to import
+[I 2024-09-23 21:30:00.620 ServerApp] aext_assistant | extension was successfully linked.
+[I 2024-09-23 21:30:00.621 ServerApp] aext_core | extension was successfully linked.
+[I 2024-09-23 21:30:00.621 ServerApp] aext_panels | extension was successfully linked.
+[I 2024-09-23 21:30:00.621 ServerApp] aext_share_notebook | extension was successfully linked.
+[I 2024-09-23 21:30:00.621 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-09-23 21:30:00.625 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-09-23 21:30:00.632 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-09-23 21:30:00.638 ServerApp] notebook | extension was successfully linked.
+[I 2024-09-23 21:30:01.170 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-09-23 21:30:01.170 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2024-09-23 21:30:01.224 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-09-23 21:30:01.225 ServerApp] Registered aext_assistant server extension
+[I 2024-09-23 21:30:01.225 ServerApp] aext_assistant | extension was successfully loaded.
+[I 2024-09-23 21:30:01.225 ServerApp] Registered aext_core server extension
+[I 2024-09-23 21:30:01.225 ServerApp] aext_core | extension was successfully loaded.
+[I 2024-09-23 21:30:01.226 ServerApp] Registered aext_panels server extension
+[I 2024-09-23 21:30:01.226 ServerApp] aext_panels | extension was successfully loaded.
+[I 2024-09-23 21:30:01.227 ServerApp] Registered aext_share_notebook_server server extension
+[I 2024-09-23 21:30:01.227 ServerApp] aext_share_notebook | extension was successfully loaded.
+[I 2024-09-23 21:30:01.229 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-09-23 21:30:01.233 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-09-23 21:30:01.239 LabApp] JupyterLab extension loaded from /opt/anaconda3/lib/python3.11/site-packages/jupyterlab
+[I 2024-09-23 21:30:01.239 LabApp] JupyterLab application directory is /opt/anaconda3/share/jupyter/lab
+[I 2024-09-23 21:30:01.240 LabApp] Extension Manager is 'pypi'.
+[I 2024-09-23 21:30:01.243 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-09-23 21:30:01.247 ServerApp] notebook | extension was successfully loaded.
+[I 2024-09-23 21:30:01.248 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2024-09-23 21:30:01.249 ServerApp] The port 8888 is already in use, trying another port.
+[I 2024-09-23 21:30:01.250 ServerApp] The port 8889 is already in use, trying another port.
+[I 2024-09-23 21:30:01.250 ServerApp] The port 8890 is already in use, trying another port.
+[I 2024-09-23 21:30:01.251 ServerApp] The port 8891 is already in use, trying another port.
+[I 2024-09-23 21:30:01.251 ServerApp] The port 8892 is already in use, trying another port.
+[I 2024-09-23 21:30:01.252 ServerApp] Serving notebooks from local directory: /Users/baruchgottesman/AIClass/ai-project-2
+[I 2024-09-23 21:30:01.252 ServerApp] Jupyter Server 2.10.0 is running at:
+[I 2024-09-23 21:30:01.252 ServerApp] http://localhost:8884/tree?token=cba7c79470910898a447da02e6a2fb58bc6ac4e6ea633abf
+[I 2024-09-23 21:30:01.252 ServerApp]     http://127.0.0.1:8884/tree?token=cba7c79470910898a447da02e6a2fb58bc6ac4e6ea633abf
+[I 2024-09-23 21:30:01.252 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-09-23 21:30:01.257 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///Users/baruchgottesman/Library/Jupyter/runtime/jpserver-93700-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8884/tree?token=cba7c79470910898a447da02e6a2fb58bc6ac4e6ea633abf
+        http://127.0.0.1:8884/tree?token=cba7c79470910898a447da02e6a2fb58bc6ac4e6ea633abf
+[I 2024-09-23 21:30:01.354 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-09-23 21:30:16.752 ServerApp] Creating new notebook in 
+[I 2024-09-23 21:30:36.606 ServerApp] Kernel started: ea8865ef-2d5a-4c1a-bbb0-cb1febf3c477
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-09-23 21:30:43.292 ServerApp] Connecting to kernel ea8865ef-2d5a-4c1a-bbb0-cb1febf3c477.
+[I 2024-09-23 21:32:30.774 ServerApp] Starting buffering for ea8865ef-2d5a-4c1a-bbb0-cb1febf3c477:208423b4-c84a-4654-a912-ca1d85713eb9
