@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+Commute_time_By_Metro_Area_2*
 
 # C extensions
 *.so
