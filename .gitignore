@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 Commute_time_By_Metro_Area_2*
-
+nohup.out
 # C extensions
 *.so
 
